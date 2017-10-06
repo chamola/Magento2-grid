@@ -158,8 +158,3 @@ class Display extends \Magento\Framework\App\Action\Action
 }
 ~~~
 
-
-If you have followed all above steps, you will see `Hello World` when open the url `http://example.com/Simple/index/display`
-
-
-
